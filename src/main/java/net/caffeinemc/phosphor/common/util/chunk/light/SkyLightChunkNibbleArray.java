@@ -12,7 +12,7 @@ public class SkyLightChunkNibbleArray extends ReadonlyChunkNibbleArray {
     }
 
     @Override
-    protected int get(final int index) {
+	public int get(final int index) {
         return super.get(index & 255);
     }
 

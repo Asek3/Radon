@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[39,)"
+license="LGPL-3.0-only"
+[[mods]]
+modId="radon"
+version="${version}"
+displayName="Radon"
+logoFile="icon.png"
+description='''
+An unofficial fork of Phosphor mod, maked to work on FML.
+'''
+credits="NanoLive, CaffeineMC"
+authors="NanoLive"
