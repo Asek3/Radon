@@ -1,5 +1,6 @@
 {
     "required": true,
+    "minVersion": "0.8",
     "package": "net.caffeinemc.phosphor.mixin",
 	"refmap": "radon-refmap.json",
     "compatibilityLevel": "JAVA_17",
